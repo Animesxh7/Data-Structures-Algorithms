@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
