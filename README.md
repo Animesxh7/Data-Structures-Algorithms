@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
@@ -47,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0099-recover-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
