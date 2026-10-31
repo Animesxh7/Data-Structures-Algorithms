@@ -9,11 +9,11 @@ class Solution:
                 a = st.pop()
                 if ch == '+':
                     st.append(a+b)
-                if ch == '-':
+                elif ch == '-':
                     st.append(a-b)
-                if ch == '*':
+                elif ch == '*':
                     st.append(a*b)
-                if ch == '/':
+                elif ch == '/':
                     st.append(int(a/b))
         return st[-1]
                 
