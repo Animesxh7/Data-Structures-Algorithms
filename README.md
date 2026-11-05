@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
