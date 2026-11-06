@@ -1,10 +1,16 @@
 class Solution:
     def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
-        ans = [-1]*len(nums1)
-        for i in range(len(nums1)):
-            tar = nums2.index(nums1[i])
-            for k in range(tar+1,len(nums2)):
-                if nums2[k] > nums1[i]:
-                    ans[i] = nums2[k]
-                    break
+        ans = []
+        nge = {}
+        st = []
+        for j in range(len(nums2)-1,-1,-1):
+            while st and st[-1]<=nums2[j]:
+                st.pop()
+            if st:
+                nge[nums2[j]] = st[-1]
+            else:
+                nge[nums2[j]] = -1
+            st.append(nums2[j])
+        for i in nums1:
+            ans.append(nge[i])
         return ans
