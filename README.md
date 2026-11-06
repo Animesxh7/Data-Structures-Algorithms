@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
