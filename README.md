@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -167,5 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
