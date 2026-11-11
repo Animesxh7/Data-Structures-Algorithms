@@ -1,9 +1,5 @@
 class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
-        if nums == []:
-            return 0
-        if len(nums) == 1:
-            return 1
         a = set(nums)
         maxi = 0
         for i in a:
