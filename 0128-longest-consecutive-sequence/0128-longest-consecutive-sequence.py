@@ -4,16 +4,15 @@ class Solution:
             return 0
         if len(nums) == 1:
             return 1
-        nums.sort()
-        count = 1
-        maxi = 1
-        for i in range(len(nums)-1):
-            if  nums[i] == nums[i+1]:
+        a = set(nums)
+        maxi = 0
+        for i in a:
+            if  i+1 in a:
                 continue
-            if nums[i]+1 == nums[i+1]:
-                count+=1
-            else:
-                count = 1 
+            count = 1
+            while i-1 in a:
+                i-=1
+                count+=1 
             maxi = max(maxi,count)
         return maxi
 
