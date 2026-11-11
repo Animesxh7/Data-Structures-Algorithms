@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
