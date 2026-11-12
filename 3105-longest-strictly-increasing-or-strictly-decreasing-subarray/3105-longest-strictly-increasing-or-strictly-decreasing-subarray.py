@@ -1,12 +1,18 @@
 class Solution:
     def longestMonotonicSubarray(self, nums: List[int]) -> int:
-        res = []
-        for i in range(len(nums)):
-            for j in range(i,len(nums)):
-                a = nums[i:j+1]
-                if a == sorted(a) and len(set(a)) == len(a):
-                    res.append(a)
-                elif  a == sorted(a,reverse = True) and len(set(a)) == len(a):
-                    res.append(a)        
-        return max(len(a) for a in res)
+        ans = 1
+        inc = 1
+        dec = 1
+        for i in range(1,len(nums)):
+            if nums[i-1] < nums[i]:
+                inc += 1
+                dec = 1
+            elif nums[i-1] > nums[i]:
+                dec += 1
+                inc = 1
+            else:
+                inc = 1
+                dec = 1
+            ans =  max(inc,dec,ans)
+        return ans
                 
