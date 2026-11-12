@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
