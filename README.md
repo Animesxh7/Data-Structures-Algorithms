@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
