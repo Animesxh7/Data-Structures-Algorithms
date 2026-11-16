@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -221,5 +223,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
