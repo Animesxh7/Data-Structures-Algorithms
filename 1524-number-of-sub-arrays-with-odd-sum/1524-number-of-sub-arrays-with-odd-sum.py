@@ -1,9 +1,6 @@
 class Solution:
     def numOfSubarrays(self, arr: list[int]) -> int:
-        count = 0
-        odd = 0
-        even = 1
-        sumi = 0
+        count,odd,even,sumi = 0,0,1,0
         for i in range(len(arr)):
             sumi += arr[i]
             if sumi%2 == 0:
