@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Queue
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
