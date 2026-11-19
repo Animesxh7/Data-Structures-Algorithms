@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Union-Find
 |  |
