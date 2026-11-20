@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -238,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
