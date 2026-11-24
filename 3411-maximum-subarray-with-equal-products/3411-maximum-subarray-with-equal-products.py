@@ -12,9 +12,6 @@ class Solution:
                 c = math.lcm(*a)
                 if prod == b*c:
                     res.append(a)
-        maxi = float('-inf')
-        for i in res:
-            maxi = max(len(i),maxi)
-        return maxi
+        return max(map(len,res),default = 0)
                 
 
