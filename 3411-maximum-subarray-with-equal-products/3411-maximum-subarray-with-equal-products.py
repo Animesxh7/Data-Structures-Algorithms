@@ -1,7 +1,7 @@
 import math
 class Solution:
     def maxLength(self, nums: List[int]) -> int:
-        res = []
+        maxi = float('-inf')
         for i in range(len(nums)):
             for j in range(i,len(nums)):
                 a = nums[i:j+1]
@@ -11,7 +11,7 @@ class Solution:
                 b = math.gcd(*a)
                 c = math.lcm(*a)
                 if prod == b*c:
-                    res.append(a)
-        return max(map(len,res),default = 0)
+                    maxi = max(maxi,len(a))
+        return maxi
                 
 
