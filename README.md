@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3360-stone-removal-game](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Animesxh7/Data-Structures-Algorithms/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
