@@ -8,4 +8,3 @@ class Solution:
             count+=1
             i-=1
         return count
-
